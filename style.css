@@ -37,6 +37,10 @@
 	padding: 0 35px ! important;
 }
 
+.navbar ul a{
+	color: black;
+}
+
 .navbar-toggler{
 	border: none ! important;
 	outline: none ! important;
@@ -141,7 +145,7 @@
 	border-radius: 2px;	
 	position: absolute;
 	background: #fff;
-	left: 50%
+	left: 50%;
 	bottom: 0;
 	transform: translate(-50%,0);
 	transition: .6s;
